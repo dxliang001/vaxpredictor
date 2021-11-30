@@ -1,0 +1,19 @@
+column,description
+country, Country name
+total_vaccinations_x, total vaccines given in that country
+amount_of_days, Amount of days it took to give those total vaccines
+Population (2020), Population of the country for 2020
+Yearly Change,population change by yearly
+Net Change,contains the net change of the population
+Density (P/Km²),The density of the population
+Land Area (Km²),land area in terms of kilometer square
+Migrants (net),migrants of the countries
+Fert. Rate,fertility or the growth rate of individual countries
+Med. Age,Urban Pop %,he median age
+World Share,the urban population
+region,Continent
+sub-region,Sub-continent
+vaccine, the vaccine brand
+total_vaccinations_y, amount of vaccines made in that country
+days_to_make_vaccines, total days it has taken to make those amount of vaccines
+amount_vaccines_needed, vaccines needed to be fully vaccined 
