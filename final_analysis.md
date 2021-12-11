@@ -45,4 +45,4 @@ Describe the contributions that each group member made.
 - Alex Liang - `etl_population_by_country_2020.ipynb` and `preliminary_analysis.ipynb` and `models.ipynb`
 - Xing Yang - `etl_country_vaccinations_by_manufacturer.ipynb`
 - Edgar Pineda `etl_continents2.ipynb` and `etl_country_vaccinations.ipynb`and `cleaned.csv` and `data_dictonary.csv` and `models.ipynb`
-Everyone was able to help our for the visualization. 
+Everyone was able to help out with the visualization. 
